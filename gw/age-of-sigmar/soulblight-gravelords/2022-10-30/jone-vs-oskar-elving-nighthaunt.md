@@ -1,5 +1,14 @@
 # SBG vs Nighthaunt
 
+## Mission
+
+GBH 2022 S1
+Close to the Chest
+
+### Resultat
+Förlust
+23 - 28
+
 ## Terräng
 
 Jag tror jag valde rätt sida, känndes inte som att terrängen vart så mycket ivägen denna matchen. Iofs har Nighthaunt ingen shooting

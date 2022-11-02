@@ -1,5 +1,14 @@
 # SBG vs LRL
 
+## Mission
+
+GBH 2022 S1
+Battlelines Drawn
+
+### Resultat
+Förlust
+16 - 28
+
 ## Terräng
 
 Skulle ha ställt terrängen så att det inte vart en choke in till mitten. Låste in mig själv lite väl mycket med den uppställningen. Men är för dålig på att ställa upp terräng och hur jag ska tänka. Känns som något jag behöver öva på, dock svårt att lära sig från Battlereps, har inte sett någon som ställer upp och pratar om hur de placerat terräng.
