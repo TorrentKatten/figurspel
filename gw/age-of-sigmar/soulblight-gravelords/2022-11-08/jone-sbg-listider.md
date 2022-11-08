@@ -1,0 +1,3 @@
+# Listfunderingar 2022-11-08
+
+labbat med lite battalioner inför linköping, men vet inte om det är värt att försöka få ner dropsen. Kanske ska spela listan jag har kört hittils, den börjar ju sitta lite. Kanske se om jag kan få klart burning head...
