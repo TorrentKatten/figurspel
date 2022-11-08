@@ -16,7 +16,7 @@ Vinst
 ![deployment med gravesites](bilder/jone-vs-jacob-alm-SCR_terrain-setup-med-gravesites.JPG)
 I bilden ovan så är min deployment den som har mest yta nederst i bild.
 
-Jag byggde terrängen. Tanken vart att ha lite line of sight blockering för att SEC inte skulle kunna välja mål helt fritt med sin shooting:
+Jag byggde terrängen. Tanken vart att ha lite line of sight blockering för att SCE inte skulle kunna välja mål helt fritt med sin shooting:
 * Celestar Ballista
 * Castigators (Reinforced x1)
 * Yndrasta
