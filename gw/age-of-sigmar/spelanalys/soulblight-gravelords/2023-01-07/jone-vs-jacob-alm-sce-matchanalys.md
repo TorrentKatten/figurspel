@@ -8,8 +8,13 @@ Vinst
 27 - 15
 
 #### Battle Tactics / Grand Strategies
-SBG
+**SBG**
+
+**Grand Strategy**
+
 Take What’s Theirs (Lyckades)
+
+**Battletactics**
 1) Against The Odds (Lyckades)
 2) Barge Through Enemy Lines (Lyckades)
 3) Eye for an Eye (Lyckades)
@@ -17,8 +22,12 @@ Take What’s Theirs (Lyckades)
 5) Desecrate Their Lands (Lyckades)
 Take What’s Theirs (Lyckades)
 
-SCE
+**SCE**
+**Grand Strategy**
+
 Hold the Line (Misslyckades)
+
+**Battletactics**
 1) Barge Through Enemy Lines (Misslyckades)
 2) Eye for an Eye (Misslyckades)
 3) Against The Odds (Lyckades)
