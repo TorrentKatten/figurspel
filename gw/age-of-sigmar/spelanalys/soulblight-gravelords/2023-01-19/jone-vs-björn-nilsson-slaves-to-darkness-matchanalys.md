@@ -117,20 +117,24 @@ Chaos Sorcerrer Lord#1:
 Chaos Sorcerrer Lord#2: 
 - Daemonic Power
 
-Movement
+**Movement**
+
 Chosen och Varanguard avanderar mot västra objektivet, Chaos Warriors avancerar mot mitten, Spire Tyrants intar den andra skogen i mitten. Chaos Knights och Chaos Lord on Karkadrak avancerar mot östra objektivet. Chaos Sorcerrer Lord#1 håller hemma objektivet och Chaos Sorcerrer Lord#2 gör Spire Tyrants sällskap i skogen.
 
-Charges
+**Charges**
+
 Chosen och Varanguard chargear Zombies, Chaos Knights chargar Blood Knigts. Chaos Lord on Karkadrak använder Forward to Victory men misslyckas att chargea.
 
-Fight:
+**Fight**
+
 Varanguard dödar 19 zombies
 Zombies gör 3W på en Varanguard och 2W på en Chosen.
 Chosen dödar resten av Zombies med sin Fight twice ability
 Chaos Knights dödar 4st Blood Knigts
 Blood Knigts Dödar 1st Chaos Knigt
 
-Battleshock:
+**Battleshock**
+
 20 Zombies återuppstår genom Endless Legions i Slaves baklinje
 
 ***Skogen vanhelgas och Slave tar 3VP***
@@ -142,10 +146,12 @@ Battleshock:
 
 #### Top - Slaves to Darkness
 
+**Heroic Actions**
+
 Chaos Lord on Karkadrak: Their Finest Hour
 Vengorian Lord: Their Finest Hour
 
-Spells:
+**Spells**
 Chaos Sorcerrer Lord#1: 
 - Daemonic Speed
 - Mystic Shield (Unbound)
@@ -153,7 +159,7 @@ Chaos Sorcerrer Lord#1:
 Chaos Sorcerrer Lord#2: 
 - Daemonic Power
 
-Movement:
+Movement
 Varanguard och Chosen avancerar mot västra objektivet och Spire Tyrants avancerar mot de nya Zombie hotet. Chaos Warriors avancerar mot Soulblights hemmaobjektiv.
 
 
@@ -188,7 +194,7 @@ Kattarin (Vampire Lord)
 - Heroic Leadership (Misslyckades)
 - Their Finest Hour
 
-Spells:
+**Spells**
 Kattarin (Vampire Lord):
  - Mystic Shield (Unbound)
  - Arcale Bolt
@@ -237,7 +243,8 @@ Chaos Lord
 Kattarin (Vampire Lord)
 - Heroic Leadership (Lyckades)
 
-Spells:
+**Spells**
+
 Chaos Sorcerrer Lord#1: 
 - Daemonic Speed
 - Mystic Shield
@@ -246,14 +253,17 @@ Chaos Sorcerrer Lord#2:
 - Daemonic Power
 
 **Movement**
+
 Chosen, Chaos Sorcerrer Lord#2 och Varanguard avancerar mot Grave Guards.
 
 
 **Charge**
+
 Chosen och Varanguard Chargear Grave Guards
 
 
 **Fight**
+
 Varanguard Dödar 6 Grave Guards
 Grave Guards får Crimson Feast igen och dödar 1 Chaos warrior och Chosen
 Chaos Warriors pilerar in och tar Soulblight Hemma Objektiv samt dödar Kattarin
@@ -262,6 +272,7 @@ Chaos Lord dödar de sista 2 Blood Knigtsen
 Skeletten gör ytterliggare 1W på Chaos Lord m.h.a. Vanhels
 
 **Battlechock**
+
 5 skelett reser sig ur graven på det västra objektivet
 
 ***Grave Guards avslutar Chosens marsh och skeletten plockar slugt ett objektiv för Slaves som tar 2VP***
@@ -279,10 +290,12 @@ Necromancer#2
 Chaos Lord
 - Heroic Leadership (Missyckades)
 
-Spells:
+**Spells**
+
 Necromancer#2: Vanhels Danse Macabre (Missyckades)
 
 **Movement**
+
 Skeletten i väster avancerar mot mitten
 Zombies gör reträtt från Spire Tyrants.
 Grave Guards gör reträtt  från Chaos Warriors och Varanguard till soulblight hemma objekitv
@@ -290,6 +303,7 @@ Necromancern springer mot Slaves territorie
 
 
 **Fight**
+
 Skeletten pilear mot Chaos Knights och försöker desperat bli dödade. Men både Chaos Lord och Chaos Knight wiffar totalt och dödar bara 4 av 7. Skeletten gör 1W på Chaos Lord
 
 ***Vampyrerna håller alla objektiv, men då armen inte vart så ostoppbar som man trodde med tomma gravar så tar man 4VP ***
@@ -311,18 +325,22 @@ Chaos Lord
 Necromancer#2: Arcane Bolt
 
 **Movement**
+
 Zombies springer in på Slaves hemma objektiv
 Necromancer#2 forstätter sin språngmarch mot Slaves territorie och passar på att skjuta en Arcane Bolt på Chaos Lord
 
 **Charge**
+
 Skeletten i väster chargear Varanguard
 
 **Fight**
+
 Skeletten gör ingen skada på Varanguard
 Chaos Lord dödar Skeletten
 Varanguard dödar skeletten
 
 **Battlechock**
+
 10 Skelett reser sig ur graven precis vid Necromancern
 
 Helt okännsligt så tar Soulblight 5VP
@@ -339,7 +357,6 @@ Chaos Sorcerer Lord#1
 
 **Spells**
 
-Spells:
 Chaos Sorcerrer Lord#1: 
 - Daemonic Speed
 - Mystic Shield
@@ -349,12 +366,14 @@ Chaos Sorcerrer Lord#2:
 
 
 **Movement**
+
 Chaos Lord springer mot Necromancern som redeployar 6"
 Varanguard och Chaos Warriors positionerar sig för en charge på Grave Guards
 Chaos Sorrcerer Lord#2 Tunnlar för att blockera en grave deploy
 Chaos Knights flyttar till sitt hemma objektiv
 
 **Charge**
+
 Varanguard Chargear Grave Guards
 Chaos Chosen Chargear Grave Guards
 Chaos Knight Chagear Zombies
@@ -362,6 +381,7 @@ Chaos Lord Chagear Skelett+Necromancer
 
 
 **Fight**
+
 Chaos Lord försöker döda Necromancer#2, men gör 2W och råkar döda 7 skelett
 Chaos Warriors dödar Grave Guards
 Zombies gör ingen skada på Chaos Knights
